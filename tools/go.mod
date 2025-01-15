@@ -1,6 +1,7 @@
 module github.com/submariner-io/submariner-operator/tools
 
-go 1.22.10
+go 1.23.4
+
 require (
 	github.com/operator-framework/operator-sdk v1.39.0
 	github.com/uw-labs/lichen v0.1.7
